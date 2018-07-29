@@ -7,3 +7,6 @@ Added line to merge to master branch..
 
 Added comment to merge in master via squash and Merge option ..to cehck difference between of squash and merge option.
 
+
+Added and updated from git Locally..
+
